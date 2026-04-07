@@ -1,0 +1,8 @@
+git clone <link do repositorio>
+git add .
+git add <nome do arquivo>
+git commit -m <“mensagem para organizar os dados”>
+git push
+wget -qO- https://astral.sh/uv/install.sh | sh
+vi <nome do arquivo>
+:q <quit>
