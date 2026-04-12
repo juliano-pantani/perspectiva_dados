@@ -26,3 +26,7 @@ cd <caminho do arquivo>
 ls
 ls (dentro da pasta perspectiva_dados)
 "lista todos os arquivos presentes na pasta
+uv add ____
+"adicionar pacote"
+tqdm
+"pacote de barra de progresso"
