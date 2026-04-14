@@ -1,32 +1,51 @@
 git clone <link do repositorio>
 "clona seu repositorio para o pc"
 git clone https://github.com/juliano-pantani/perspectiva_dados/
+
 git status
 "mostra as alterações no seu repositorio feitas por voce ou outros colaboradorees
+
 git add .
 "adiciona no git local todos os arquivos que foram mudados
+
 git add <nome do arquivo>
 "adiciona apenas um arquivo
+
 git add glossario.txt
 git commit -m <“mensagem para organizar os dados”>
 "atribui uma mensagem a ultima submissao que foi feita para o repositorio
 "auxilia na organizacao
+
 git commit -m "adicionei o glossario"
 git push
 "envia o que foi feito para a nuvem, no caso o github
+
 wget -qO- https://astral.sh/uv/install.sh | sh
-"instala uv no repositório
+"uv no repositório
+
 vi <nome do arquivo>
 vi glossario
 "editor de arquivo no terminal
 :q <quit>
 "para sair do vi
+
 cd <caminho do arquivo>
 "acessa a pasta do arquivo pelo terminal""
+
 ls
 ls (dentro da pasta perspectiva_dados)
 "lista todos os arquivos presentes na pasta
+
 uv add ____
 "adicionar pacote"
+
 tqdm
 "pacote de barra de progresso"
+* wildcard *.json = pega todos os arquivos que terminam em .json
+
+biblioteca nltk (natural language took kit)
+
+set() identifica palavras duplicadas
+
+apply() aplica a função numa coluna de um dataframe pd
+
